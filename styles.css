@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+
+.menu {
+    display: flex;
+    margin: 12px;
+}
+
+
+.logo-header {
+    display: flex;
+    padding: 17px;
+}
+
+
+.search-bar img {
+    display: flex;
+    padding: 0 98px;
+}
+
+.video-icon {
+    display: flex;
+    padding: 0 15px;
+}
+
+
+
+.notification-icon {
+    display: flex;
+    padding: 0 3px;
+
+}
+
+
+.messagers-icon {
+    display: flex;
+    padding: 0 15px;
+}
+
+
+
+.image-video-principal img {
+    width: 632px;
+    height: 337px;
+    margin: 14px;
+    padding: 2px
+}
+
+.tittle-video-principal h3 {
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 00;
+    padding: 0 18px;
+}
+
+
+.video-actions img{
+    width: 552px;
+    height: 30px;
+    margin: 18px;
+
+}
+
+.text-video img{
+    width: 264px;
+    height: 16px;
+    margin: 0 18px;
+}
+
+.text-descripte img{
+    margin: 0 18px;
+    width: 356px;
+    height: 56px;
+}
